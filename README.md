@@ -9,13 +9,12 @@ I hope to continue to learn data analysis.
 
 ## Skills
 
-| Skill                                         | Associated Projects         |
-|-----------------------------------------------|----------------------------|
-| Python          | <a href="https://google.com">Detection Lab</a>|
-| APIs            |              |
-| Data Visualization |    |
-| Excel            |                  |
-| 
+| Skill              | Associated Project |
+|--------------------|----------------------------|
+| Python             | <a href="https://google.com">Spotify Analysis</a>|
+| APIs               | <a href="https://google.com">Spotify Analysis</a>|
+| Data Visualization | <a href="https://google.com">Spotify Analysis</a>|
+| Excel              | <a href="https://google.com">Spotify Analysis</a>|
 
 ## All Projects
-- Spotify/Billboard Analysis
+- <a href="https://google.com">Spotify/Billboard Analysis</a>
