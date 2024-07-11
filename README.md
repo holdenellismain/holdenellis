@@ -11,10 +11,10 @@ I hope to continue to learn data analysis.
 
 | Skill              | Associated Project |
 |--------------------|----------------------------|
-| Python             | <a href="https://google.com">Spotify Analysis</a>|
-| APIs               | <a href="https://google.com">Spotify Analysis</a>|
-| Data Visualization | <a href="https://google.com">Spotify Analysis</a>|
-| Excel              | <a href="https://google.com">Spotify Analysis</a>|
+| Python             | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
+| APIs               | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
+| Data Visualization | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
+| Excel              | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
 
 ## All Projects
-- <a href="https://google.com">Spotify/Billboard Analysis</a>
+- <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify/Billboard Analysis</a>
