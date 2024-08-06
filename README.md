@@ -13,8 +13,9 @@ I hope to continue to learn data analysis.
 |--------------------|----------------------------|
 | Python             | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
 | APIs               | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
+| Web Scraping       | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a>|
 | Data Visualization | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
-| Excel              | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
+| Excel              | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a>|
 
 ## All Projects
 - <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify/Billboard Analysis</a>
