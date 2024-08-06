@@ -19,3 +19,4 @@ I hope to continue to learn data analysis.
 
 ## All Projects
 - <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify/Billboard Analysis</a>
+- <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Premier League Home Field Advantage</a>
