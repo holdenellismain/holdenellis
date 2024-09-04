@@ -1,11 +1,7 @@
 # Holden Ellis
 <a href="www.linkedin.com/in/holden-ellis-74b820282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student at UC Santa Barbara majoring in Statistics and Data Science
-
-## Objective
-
-I hope to continue to learn data analysis.
+I am a student at UC Santa Barbara majoring in Statistics and Data Science. Below are personal projects that I have done in order to practice my existing skills and learn new ones. 
 
 ## Skills
 
