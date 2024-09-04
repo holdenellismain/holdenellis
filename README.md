@@ -12,12 +12,13 @@ I hope to continue to learn data analysis.
 | Skill              | Associated Project |
 |--------------------|----------------------------|
 | Python             | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
-| APIs               | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a><br>Mountain Biking Trails|
+| APIs               | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a><br><a href="https://github.com/holdenellismain/SCMountainBiking">Mountain Biking Trails</a>|
 | Web Scraping       | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a>|
 | Data Visualization | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
 | Excel              | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a>|
-| GIS                | Mountain Biking Trails |                         
+| GIS                | <a href="https://github.com/holdenellismain/SCMountainBiking">Mountain Biking Trails</a> |                         
 
 ## All Projects
 - <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify/Billboard Analysis</a>
 - <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Premier League Home Field Advantage</a>
+- <a href="https://github.com/holdenellismain/SCMountainBiking">Santa Cruz Mountain Biking</a>
