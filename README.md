@@ -7,15 +7,17 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 
 | Skill              | Associated Project |
 |--------------------|----------------------------|
-| Python             | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
-| C++                | <a href="https://github.com/holdenellismain/ProfessorRatingModel">Professor Ratings Model</a>
-| APIs               | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a><br><a href="https://github.com/holdenellismain/SCMountainBiking">Mountain Biking Trails</a>|
-| Web Scraping       | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a><br><a href="https://github.com/holdenellismain/ProfessorRatingModel">Professor Ratings Model</a> |
-| Data Visualization | <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify Analysis</a>|
-| Excel              | <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Home Field Advantage</a>|
-| GIS                | <a href="https://github.com/holdenellismain/SCMountainBiking">Mountain Biking Trails</a> |                         
+| Python             | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
+| C++                | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel)
+| APIs               | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
+| Web Scraping       | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage") <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
+| Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
+| Excel              | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage") <br> [Bike Shop Inventory](https://github.com/holdenellismain/BikeShopInventory)|
+| GIS                | [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking") |                         
 
 ## All Projects
-- <a href="https://github.com/holdenellismain/SpotifyBillboard">Spotify/Billboard Analysis</a>
-- <a href="https://github.com/holdenellismain/HomeFieldAdvantage">Premier League Home Field Advantage</a>
-- <a href="https://github.com/holdenellismain/SCMountainBiking">Santa Cruz Mountain Biking</a>
+- [Spotify/Billboard Analysis](https://github.com/holdenellismain/SpotifyBillboard)
+- [Premier League Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage)
+- [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel)
+- [Bike Shop Inventory Management](https://github.com/holdenellismain/BikeShopInventory)
+- [Santa Cruz Mountain Biking](https://github.com/holdenellismain/SCMountainBiking)
