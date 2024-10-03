@@ -8,7 +8,8 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 | Skill              | Associated Project |
 |--------------------|----------------------------|
 | Python             | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
-| C++                | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel)
+| C++                | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
+| R                  | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
 | APIs               | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
 | Web Scraping       | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
 | Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
