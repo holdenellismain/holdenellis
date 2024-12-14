@@ -7,18 +7,20 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 
 | Skill              | Associated Project |
 |--------------------|----------------------------|
+| Machine Learning   | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) |
 | Python             | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
 | C++                | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
-| R                  | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
-| APIs               | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
-| Web Scraping       | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
-| Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
+| R                  | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) |
+| Web APIs           | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
+| Web Scraping       | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
+| Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard), using Excel <br> [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main), using R |
 | Excel              | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) <br> [Bike Shop Inventory](https://github.com/holdenellismain/BikeShopInventory)|
 | GIS                | [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |                         
 
 ## All Projects
+- [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main)
 - [Spotify/Billboard Analysis](https://github.com/holdenellismain/SpotifyBillboard)
 - [Premier League Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage)
-- [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel)
 - [Bike Shop Inventory Management](https://github.com/holdenellismain/BikeShopInventory)
+- [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel)
 - [Santa Cruz Mountain Biking](https://github.com/holdenellismain/SCMountainBiking)
