@@ -14,7 +14,7 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 | Web APIs           | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
 | Web Scraping       | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
 | Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard), using Excel |
-| Excel              | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) <br> [Bike Shop Inventory](https://github.com/holdenellismain/BikeShopInventory)|
+| Excel              | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) |
 | GIS                | [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |                         
 
 ## All Projects
