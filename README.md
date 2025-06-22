@@ -5,19 +5,19 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 
 ## Skills
 
-| Skill              | Associated Project |
-|--------------------|----------------------------|
-| Machine Learning   | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) |
-| Python             | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
-| C++                | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
-| R                  | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) |
-| Web APIs           | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
-| Web Scraping       | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
-| Data Visualization | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard), using Excel |
-| Excel              | [Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage) |
-| GIS                | [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |                         
+| Skill                   | Associated Project |
+|-------------------------|----------------------------|
+| Machine Learning / AI   | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction) <br> [F1 Advertising](https://github.com/holdenellismain/f1advertising) |
+| Python                  | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
+| C++                     | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
+| R                       | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction) |
+| Web APIs                | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) <br> [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |
+| Web Scraping            | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main) <br> [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
+| Data Visualization      | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard), using Excel |
+| GIS                     | [Mountain Biking Trails](https://github.com/holdenellismain/SCMountainBiking) |                         
 
 ## All Projects
+- [F1 Advertising](https://github.com/holdenellismain/f1advertising)
 - [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main)
 - [Spotify/Billboard Analysis](https://github.com/holdenellismain/SpotifyBillboard)
 - [Premier League Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage)
