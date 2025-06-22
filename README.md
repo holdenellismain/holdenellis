@@ -7,7 +7,7 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 
 | Skill                   | Associated Project |
 |-------------------------|----------------------------|
-| Machine Learning / AI   | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction) <br> [F1 Advertising](https://github.com/holdenellismain/f1advertising) |
+| Machine Learning / AI   | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction) <br> [F1 Advertising](https://github.com/holdenellismain/f1advertising) <br> [Survey Modelling](https://github.com/holdenellismain/SurveyAnalysis) |
 | Python                  | [Spotify Analysis](https://github.com/holdenellismain/SpotifyBillboard) |
 | C++                     | [Professor Ratings Model](https://github.com/holdenellismain/ProfessorRatingModel) |
 | R                       | [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction) |
@@ -20,6 +20,7 @@ I am a student at UC Santa Barbara majoring in Statistics and Data Science. Belo
 - [F1 Advertising](https://github.com/holdenellismain/f1advertising)
 - [Football Match Modelling](https://github.com/holdenellismain/FootballMatchPrediction/tree/main)
 - [Spotify/Billboard Analysis](https://github.com/holdenellismain/SpotifyBillboard)
+- [Survey Modelling](https://github.com/holdenellismain/SurveyAnalysis)
 - [Bakersfield UHI](https://github.com/holdenellismain/BakersfieldUHI)
 - [Premier League Home Field Advantage](https://github.com/holdenellismain/HomeFieldAdvantage)
 - [Bike Shop Inventory Management](https://github.com/holdenellismain/BikeShopInventory)
